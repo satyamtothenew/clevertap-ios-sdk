@@ -2,7 +2,7 @@
   <img src="/docs/images/clevertap-logo.png" width = "50%"/>
 </p>
 
-# CleverTap iOS SDK  
+# CleverTap iOS SDK for privacy duplicate
 [![CI Status](https://api.travis-ci.org/CleverTap/clevertap-ios-sdk.svg?branch=master)](https://travis-ci.org/CleverTap/clevertap-ios-sdk)
 [![Version](https://img.shields.io/cocoapods/v/CleverTap-iOS-SDK.svg?style=flat)](http://cocoapods.org/pods/CleverTap-iOS-SDK)
 [![License](https://img.shields.io/cocoapods/l/CleverTap-iOS-SDK.svg?style=flat)](http://cocoapods.org/pods/CleverTap-iOS-SDK)
